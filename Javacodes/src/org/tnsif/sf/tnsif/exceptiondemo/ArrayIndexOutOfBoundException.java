@@ -1,6 +1,6 @@
 package org.tnsif.sf.tnsif.exceptiondemo;
 
-public class ArrayIndexOutOfBoundExceptionDemo {
+public class ArrayIndexOutOfBoundException {
 
 	public static void main(String[] args) {
 		int arr[]=new int[4]; //1 2 3 4 start=0 end=3

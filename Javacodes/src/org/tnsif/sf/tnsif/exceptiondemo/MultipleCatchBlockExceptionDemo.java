@@ -1,6 +1,6 @@
 package org.tnsif.sf.tnsif.exceptiondemo;
 
-public class MultipleCatchBlockDemo {
+public class MultipleCatchBlockExceptionDemo {
 
 	public static void main(String[] args) {
 		

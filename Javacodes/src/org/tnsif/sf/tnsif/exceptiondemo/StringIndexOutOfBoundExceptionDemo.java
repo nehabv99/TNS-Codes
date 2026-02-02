@@ -1,6 +1,6 @@
 package org.tnsif.sf.tnsif.exceptiondemo;
 
-public class StringIndexOutBoundException {
+public class StringIndexOutOfBoundExceptionDemo {
 
 	public static void main(String[] args) {
 		String str="hello";

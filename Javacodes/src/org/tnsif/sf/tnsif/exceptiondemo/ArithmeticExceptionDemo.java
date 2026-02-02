@@ -1,6 +1,6 @@
 package org.tnsif.sf.tnsif.exceptiondemo;
 
-public class ArithematicExceptionDemo {
+public class ArithmeticExceptionDemo {
 
 	public static void main(String[] args) {	
 		int number_one =50/5; //10
