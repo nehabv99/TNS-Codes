@@ -1,4 +1,4 @@
-package org.tnsif.sf.interfacedemo;
+package org.tnsif.accenture.java;
 
 class EmailNotification implements NotificationService
 {

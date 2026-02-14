@@ -1,4 +1,4 @@
-package org.tnsif.accenture.java.interfacedemo;
+package org.tnsif.accenture.java;
 
 interface SmartDevice
 {
@@ -6,24 +6,5 @@ interface SmartDevice
 	void turnOff();
 	void getStatus();
 }
-class SmartLight implements SmartDevice
-{
 
-	@Override
-	public void turnOn() {
-		System.out.println("Smart Light is ON");
-		
-	}
-
-	@Override
-	public void turnOff() {
-	System.out.println("Smart Light is Off");
-	}
-
-	@Override
-	public void getStatus() {
-		System.out.println("Smart Light is in standby mode");
-	}
-	
-}
 
